@@ -1,0 +1,16 @@
+id,Title,Description,Severity,Status
+1, Bug1,Lorem ipsum,CriticalBug,Pending
+2,Bug2,Lorem ipsum,MajorBug,Fixed
+3,Bug3,Lorem ipsum,MinorBug,Fixed
+4,Bug4,Lorem ipsum,CriticalBug,Fixed
+5,Bug5,Lorem ipsum,MinorBug,Pending
+6,Bug6,Lorem ipsum,MajorBug,Pending
+7,Bug7,Lorem ipsum,MajorBug,Pending
+8,Bug8,Lorem ipsum,MinorBug,Pending
+9,Bug9,Lorem ipsum,MinorBug,Fixed
+10,Bug10,Lorem ipsum,CriticalBug,Fixed
+11,Bug11,Lorem ipsum,CriticalBug,Pending
+12,Bug12,Lorem ipsum,MajorBug,Pending
+13,Bug13,Lorem ipsum,MinorBug,Pending
+14,Bug14,Lorem ipsum,MinorBug,Fixed
+15,Bug15,Lorem ipsum,CriticalBug,Fixed
